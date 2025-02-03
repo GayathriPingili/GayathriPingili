@@ -53,34 +53,6 @@ I am a Full Stack Developer with **2+ years of experience** in front-end and bac
 
 ---
 
-## 📌 Projects
-
-### 🔹 [Multi Domain Product](https://github.com/GayathriPingili)
-**Tech:** HTML, CSS, JavaScript, jQuery, MERN, Git, Babel, Sass  
-- Improved page load speeds by **80%** and SEO by **25%**, leading to better user experience  
-- Debugged and fixed issues, improving usability  
-
-### 🔹 [eCommerce Website](https://github.com/GayathriPingili/eshop)
-**Tech:** React.js, JavaScript, Firebase, Git  
-- Built an eCommerce site with **Add to Cart, Checkout, and Firebase Authentication**  
-- Implemented dynamic **Subtotal Calculation** at checkout  
-- Optimized performance for mobile & desktop  
-
-### 🔹 [Full Stack Food Ordering App](https://github.com/GayathriPingili/Food-Delivery)
-**Tech:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Stripe, JWT, Bcrypt  
-- Developed a **responsive food ordering app** with secure payments using **Stripe**  
-- Integrated **JWT & Bcrypt for authentication** to protect sensitive data  
-- Created an **Admin Panel** for managing orders  
-
-### 🔹 [ ToDo List Web App](https://github.com/GayathriPingili/todoapp)
-**Tech:** React, JavaScript, HTML, CSS
-- Developed a **clean, user-friendly ToDo list application** with a focus on task management
-- Implemented **state management** in React for dynamic task creation, editing, and deletion
-- Ensured a **responsive design** for smooth performance across desktop and mobile devices
-- Applied **best practices** in front-end development for a seamless user experience
-
----
-
 ## 📫 Connect with Me
 
 
