@@ -1,15 +1,32 @@
-# Hi there, I'm Pingili Gayathri 👋
+<h1 align="center">Hi 👋, I'm Pingili Gayathri</h1>
+<h3 align="center">A Passionate Web Developer</h3>
+
 ![gitimg](https://github.com/user-attachments/assets/9571fbb7-fe1f-4235-b045-e722268a0039)
 
 
-💻 **Full Stack Developer | MERN Stack | Cloud Enthusiast | Passionate about building scalable applications**
 
-I am a Full Stack Developer with **2+ years of experience** in front-end and back-end technologies. I love solving problems and building user-centric web applications. Currently, I am pursuing my **Master’s in Computer Science** at **Kent State University** and working on innovative web and cloud-based solutions.
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathripingili" alt="gayathripingili" /></a> </p>
 
+- Currently I'm working on a **MERN Stack Project**
+
+- 🌱 I’m currently learning **AWS**
+
+- 👯 I’m looking to collaborate on **Open-source projects 🛠️ Web and cloud-based solutions ☁️ Problem-solving opportunities in full-stack development**
+
+- 👨‍💻 All of my projects are available at [https://aesthetic-kelpie-d6a6c0.netlify.app/](https://aesthetic-kelpie-d6a6c0.netlify.app/)
+
+- 💬 Ask me about **Full Stack Development | MERN Stack | Cloud Computing | REST APIs | Secure Authentication | Performance Optimization | AWS Services | Agile & Scrum | UI/UX Best Practices**
+
+- 📫 How to reach me **gayathri.pingili33@gmail.com**
+
+- ⚡ Fun fact **✨ I started coding for fun, and now I can’t stop building things! 😄**
+
+### 🛠 Top Skills
 ---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathripingili&show_icons=true&locale=en&layout=compact" alt="gayathripingili" /></p>
 
-## 🛠 Tech Stack
-
+### 🛠 Tech Stack
+---
 ### 💡 Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -51,6 +68,9 @@ I am a Full Stack Developer with **2+ years of experience** in front-end and bac
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+### 🧪 Testing Libraries:
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white)
 ---
 
 ## 📫 Connect with Me
