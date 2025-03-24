@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pingili Gayathri</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">A Passionate Software Engineer | UI/UX-Focused | React, Angular, JavaScript</h3>
 
 ![gitimg](https://github.com/user-attachments/assets/9571fbb7-fe1f-4235-b045-e722268a0039)
 
