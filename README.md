@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pingili Gayathri</h1>
-<h3 align="center">A Passionate Software Engineer | UI/UX-Focused | React, Angular, JavaScript</h3>
+<h4 align="center">
+Full Stack Developer & Software Engineer with 2+ years of experience building responsive, scalable web applications using React.js, Node.js, and MongoDB.  
+
+I’m passionate about creating intuitive user interfaces and seamless user experiences, with a strong focus on UI/UX design using React, Angular, and modern JavaScript.  
+
+</h4>
 
 ![gitimg](https://github.com/user-attachments/assets/9571fbb7-fe1f-4235-b045-e722268a0039)
 
