@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pingili Gayathri</h1>
 <h4 align="center">
-Full Stack Developer & Software Engineer with 2+ years of experience building responsive, scalable web applications using React.js, Node.js, and MongoDB.  
+ 
 
-I’m passionate about creating intuitive user interfaces and seamless user experiences, with a strong focus on UI/UX design using React, Angular, and modern JavaScript.  
+I’m passionate about creating intuitive user interfaces and seamless user experiences.
 
 </h4>
 
